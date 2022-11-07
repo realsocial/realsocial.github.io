@@ -462,13 +462,13 @@ img, video { max-width: 100%; height: auto; }
 
 .rounded-t-lg { border-top-left-radius: 0.5rem; border-top-right-radius: 0.5rem; }
 
-.border-2 { border-width: 2px; }
+.border-2 { }
 
 .border { border-width: 1px; }
 
 .border-4 { border-width: 4px; }
 
-.border-b-2 { border-bottom-width: 2px; }
+.border-b-2 { }
 
 .border-dashed { border-style: dashed; }
 
